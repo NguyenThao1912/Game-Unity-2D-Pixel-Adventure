@@ -1,7 +1,10 @@
 # Game-Unity-2D-Pixel-Adventure
-a basic 2D game with 4 level (some features change skins , monster , respawn )
-
-The Game was made by NGUYEN DUC VINH , LE DANG DUONG 
+A basic 2D game with 4 level (some features change skins , monster , respawn )
+  If you see our project are helpful for you 
+  please follow me to let me and my friends know our game is not trash  ^^
+  
+  
+Anyway The Game was made by NGUYEN DUC VINH , LE DANG DUONG -  give my best wish to my bros
 
 REFERENCE
   - Thanks a lots to LuisCanary . Thank you your tutorial .
@@ -28,4 +31,4 @@ LEVEL 3
 LEVEL 4
 ...
 
-If you see my project is helpful for you please follow me to let me and my friends know our game is not trash  ^^
+
